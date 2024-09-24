@@ -3,7 +3,23 @@
   "WorkspaceRootPath": "C:\\Users\\jared\\Documents\\GitHub\\vishwadharam\\vishwadharam\\",
   "Documents": [
     {
+<<<<<<< Updated upstream
       "AbsoluteMoniker": "D:0:0:{EB2C9550-4BBA-480F-B385-320245FA2F9F}|vishwadharam.csproj|c:\\users\\jared\\documents\\github\\vishwadharam\\vishwadharam\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+=======
+      "AbsoluteMoniker": "D:0:0:{EB2C9550-4BBA-480F-B385-320245FA2F9F}|vishwadharam.csproj|c:\\users\\lab_services_student\\documents\\wil website\\vishwadharam\\vishwadharam\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB2C9550-4BBA-480F-B385-320245FA2F9F}|vishwadharam.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB2C9550-4BBA-480F-B385-320245FA2F9F}|vishwadharam.csproj|c:\\users\\lab_services_student\\documents\\wil website\\vishwadharam\\vishwadharam\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB2C9550-4BBA-480F-B385-320245FA2F9F}|vishwadharam.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB2C9550-4BBA-480F-B385-320245FA2F9F}|vishwadharam.csproj|c:\\users\\lab_services_student\\documents\\wil website\\vishwadharam\\vishwadharam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB2C9550-4BBA-480F-B385-320245FA2F9F}|vishwadharam.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB2C9550-4BBA-480F-B385-320245FA2F9F}|vishwadharam.csproj|C:\\Users\\lab_services_student\\Documents\\WIL WEBSITE\\vishwadharam\\vishwadharam\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+>>>>>>> Stashed changes
       "RelativeMoniker": "D:0:0:{EB2C9550-4BBA-480F-B385-320245FA2F9F}|vishwadharam.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
@@ -26,11 +42,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< Updated upstream
           "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+=======
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\WIL WEBSITE\\vishwadharam\\vishwadharam\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\WIL WEBSITE\\vishwadharam\\vishwadharam\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-24T18:17:22.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\WIL WEBSITE\\vishwadharam\\vishwadharam\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Documents\\WIL WEBSITE\\vishwadharam\\vishwadharam\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAADsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T18:09:55.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+>>>>>>> Stashed changes
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\jared\\Documents\\GitHub\\vishwadharam\\vishwadharam\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
@@ -42,7 +92,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< Updated upstream
               "DocumentIndex": 0,
+=======
+              "DocumentIndex": 3,
+>>>>>>> Stashed changes
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\jared\\Documents\\GitHub\\vishwadharam\\vishwadharam\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
@@ -50,12 +104,15 @@
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAiwBwAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-17T19:07:05.172Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-17T19:07:05.172Z"
             },
             {
               "$type": "Document",
+<<<<<<< Updated upstream
               "DocumentIndex": 2,
+=======
+              "DocumentIndex": 5,
+>>>>>>> Stashed changes
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\jared\\Documents\\GitHub\\vishwadharam\\vishwadharam\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
@@ -67,7 +124,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< Updated upstream
               "DocumentIndex": 3,
+=======
+              "DocumentIndex": 2,
+>>>>>>> Stashed changes
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\jared\\Documents\\GitHub\\vishwadharam\\vishwadharam\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
