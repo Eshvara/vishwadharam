@@ -14,11 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("vishwadharam")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-<<<<<<< Updated upstream
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ea0bc527c9376ab885293b3164e79ea231323fba")]
-=======
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+086c4bce6220e7bd4a122c7e2877075d41902631")]
->>>>>>> Stashed changes
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dbd4a1b42c62effeb44623dafa41b49b2031f6fe")]
 [assembly: System.Reflection.AssemblyProductAttribute("vishwadharam")]
 [assembly: System.Reflection.AssemblyTitleAttribute("vishwadharam")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

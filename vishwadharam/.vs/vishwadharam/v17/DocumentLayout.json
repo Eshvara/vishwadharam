@@ -3,27 +3,19 @@
   "WorkspaceRootPath": "C:\\Users\\lab_services_student\\Documents\\WIL WEBSITE\\vishwadharam\\vishwadharam\\",
   "Documents": [
     {
-<<<<<<< Updated upstream
-      "AbsoluteMoniker": "D:0:0:{EB2C9550-4BBA-480F-B385-320245FA2F9F}|vishwadharam.csproj|c:\\users\\jared\\documents\\github\\vishwadharam\\vishwadharam\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EB2C9550-4BBA-480F-B385-320245FA2F9F}|vishwadharam.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB2C9550-4BBA-480F-B385-320245FA2F9F}|vishwadharam.csproj|c:\\users\\jared\\documents\\github\\vishwadharam\\vishwadharam\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-=======
-      "AbsoluteMoniker": "D:0:0:{EB2C9550-4BBA-480F-B385-320245FA2F9F}|vishwadharam.csproj|C:\\Users\\lab_services_student\\Documents\\WIL WEBSITE\\vishwadharam\\vishwadharam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EB2C9550-4BBA-480F-B385-320245FA2F9F}|vishwadharam.csproj|c:\\users\\lab_services_student\\documents\\wil website\\vishwadharam\\vishwadharam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB2C9550-4BBA-480F-B385-320245FA2F9F}|vishwadharam.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB2C9550-4BBA-480F-B385-320245FA2F9F}|vishwadharam.csproj|c:\\users\\lab_services_student\\documents\\wil website\\vishwadharam\\vishwadharam\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{EB2C9550-4BBA-480F-B385-320245FA2F9F}|vishwadharam.csproj|C:\\Users\\lab_services_student\\Documents\\WIL WEBSITE\\vishwadharam\\vishwadharam\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{EB2C9550-4BBA-480F-B385-320245FA2F9F}|vishwadharam.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EB2C9550-4BBA-480F-B385-320245FA2F9F}|vishwadharam.csproj|C:\\Users\\lab_services_student\\Documents\\WIL WEBSITE\\vishwadharam\\vishwadharam\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
->>>>>>> Stashed changes
       "RelativeMoniker": "D:0:0:{EB2C9550-4BBA-480F-B385-320245FA2F9F}|vishwadharam.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB2C9550-4BBA-480F-B385-320245FA2F9F}|vishwadharam.csproj|c:\\users\\lab_services_student\\documents\\wil website\\vishwadharam\\vishwadharam\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{EB2C9550-4BBA-480F-B385-320245FA2F9F}|vishwadharam.csproj|C:\\Users\\lab_services_student\\Documents\\WIL WEBSITE\\vishwadharam\\vishwadharam\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{EB2C9550-4BBA-480F-B385-320245FA2F9F}|vishwadharam.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
@@ -31,7 +23,7 @@
       "RelativeMoniker": "D:0:0:{EB2C9550-4BBA-480F-B385-320245FA2F9F}|vishwadharam.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB2C9550-4BBA-480F-B385-320245FA2F9F}|vishwadharam.csproj|c:\\users\\lab_services_student\\documents\\wil website\\vishwadharam\\vishwadharam\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EB2C9550-4BBA-480F-B385-320245FA2F9F}|vishwadharam.csproj|C:\\Users\\lab_services_student\\Documents\\WIL WEBSITE\\vishwadharam\\vishwadharam\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB2C9550-4BBA-480F-B385-320245FA2F9F}|vishwadharam.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -42,37 +34,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-<<<<<<< Updated upstream
-          "SelectedChildIndex": 1,
-=======
           "SelectedChildIndex": 5,
->>>>>>> Stashed changes
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-<<<<<<< Updated upstream
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\jared\\Documents\\GitHub\\vishwadharam\\vishwadharam\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\jared\\Documents\\GitHub\\vishwadharam\\vishwadharam\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T08:07:28.092Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\jared\\Documents\\GitHub\\vishwadharam\\vishwadharam\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\jared\\Documents\\GitHub\\vishwadharam\\vishwadharam\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAiwBwAAAA8AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-17T19:07:05.172Z",
-=======
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\WIL WEBSITE\\vishwadharam\\vishwadharam\\Views\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
@@ -80,8 +46,7 @@
               "RelativeToolTip": "Views\\Account\\Login.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-24T18:27:33.005Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-24T18:27:33.005Z"
             },
             {
               "$type": "Document",
@@ -93,15 +58,11 @@
               "RelativeToolTip": "Controllers\\AccountController.cs",
               "ViewState": "AQIAACkAAAAAAAAAAAAAADoAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T18:25:33.266Z",
->>>>>>> Stashed changes
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-24T18:25:33.266Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-<<<<<<< Updated upstream
-=======
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\WIL WEBSITE\\vishwadharam\\vishwadharam\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
@@ -109,8 +70,7 @@
               "RelativeToolTip": "Controllers\\HomeController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T18:24:51.332Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-24T18:24:51.332Z"
             },
             {
               "$type": "Document",
@@ -122,13 +82,11 @@
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAiwBwAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-24T18:24:51.678Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-24T18:24:51.678Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
->>>>>>> Stashed changes
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\WIL WEBSITE\\vishwadharam\\vishwadharam\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
@@ -136,22 +94,17 @@
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAsAAAAAAAAAAAAAACEAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-24T18:24:51.939Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-24T18:24:51.939Z"
             },
             {
               "$type": "Document",
-<<<<<<< Updated upstream
-              "DocumentIndex": 3,
-=======
               "DocumentIndex": 0,
->>>>>>> Stashed changes
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\lab_services_student\\Documents\\WIL WEBSITE\\vishwadharam\\vishwadharam\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\lab_services_student\\Documents\\WIL WEBSITE\\vishwadharam\\vishwadharam\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAAACgAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-24T18:24:51.941Z",
               "EditorCaption": ""
