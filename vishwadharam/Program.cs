@@ -6,6 +6,14 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
+// Configure cookie authentication
+builder.Services.AddAuthentication("MyCookieAuth")
+    .AddCookie("MyCookieAuth", options =>
+    {
+        options.Cookie.Name = "MyAuthCookie";
+        options.LoginPath = "/Account/Login";  // Redirects to the Login page when unauthenticated
+    });
+
 //Toast
 builder.Services.AddNotyf(config =>
 {
@@ -30,6 +38,7 @@ app.UseStaticFiles();
 app.UseRouting();
 
 app.UseAuthorization();
+
 
 
 //Toast Extension

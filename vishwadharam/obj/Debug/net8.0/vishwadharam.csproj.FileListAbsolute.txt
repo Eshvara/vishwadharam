@@ -71,3 +71,40 @@ C:\Users\jared\Documents\GitHub\vishwadharam\vishwadharam\obj\Debug\net8.0\refin
 C:\Users\jared\Documents\GitHub\vishwadharam\vishwadharam\obj\Debug\net8.0\vishwadharam.pdb
 C:\Users\jared\Documents\GitHub\vishwadharam\vishwadharam\obj\Debug\net8.0\vishwadharam.genruntimeconfig.cache
 C:\Users\jared\Documents\GitHub\vishwadharam\vishwadharam\obj\Debug\net8.0\ref\vishwadharam.dll
+C:\Users\lab_services_student\Documents\WIL WEBSITE\vishwadharam\vishwadharam\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\lab_services_student\Documents\WIL WEBSITE\vishwadharam\vishwadharam\bin\Debug\net8.0\appsettings.json
+C:\Users\lab_services_student\Documents\WIL WEBSITE\vishwadharam\vishwadharam\bin\Debug\net8.0\vishwadharam.staticwebassets.runtime.json
+C:\Users\lab_services_student\Documents\WIL WEBSITE\vishwadharam\vishwadharam\bin\Debug\net8.0\vishwadharam.exe
+C:\Users\lab_services_student\Documents\WIL WEBSITE\vishwadharam\vishwadharam\bin\Debug\net8.0\vishwadharam.deps.json
+C:\Users\lab_services_student\Documents\WIL WEBSITE\vishwadharam\vishwadharam\bin\Debug\net8.0\vishwadharam.runtimeconfig.json
+C:\Users\lab_services_student\Documents\WIL WEBSITE\vishwadharam\vishwadharam\bin\Debug\net8.0\vishwadharam.dll
+C:\Users\lab_services_student\Documents\WIL WEBSITE\vishwadharam\vishwadharam\bin\Debug\net8.0\vishwadharam.pdb
+C:\Users\lab_services_student\Documents\WIL WEBSITE\vishwadharam\vishwadharam\bin\Debug\net8.0\AspNetCoreHero.ToastNotification.Views.dll
+C:\Users\lab_services_student\Documents\WIL WEBSITE\vishwadharam\vishwadharam\bin\Debug\net8.0\AspNetCoreHero.ToastNotification.dll
+C:\Users\lab_services_student\Documents\WIL WEBSITE\vishwadharam\vishwadharam\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\lab_services_student\Documents\WIL WEBSITE\vishwadharam\vishwadharam\obj\Debug\net8.0\vishwadharam.csproj.AssemblyReference.cache
+C:\Users\lab_services_student\Documents\WIL WEBSITE\vishwadharam\vishwadharam\obj\Debug\net8.0\vishwadharam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\Documents\WIL WEBSITE\vishwadharam\vishwadharam\obj\Debug\net8.0\vishwadharam.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\Documents\WIL WEBSITE\vishwadharam\vishwadharam\obj\Debug\net8.0\vishwadharam.AssemblyInfo.cs
+C:\Users\lab_services_student\Documents\WIL WEBSITE\vishwadharam\vishwadharam\obj\Debug\net8.0\vishwadharam.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\Documents\WIL WEBSITE\vishwadharam\vishwadharam\obj\Debug\net8.0\vishwadharam.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\lab_services_student\Documents\WIL WEBSITE\vishwadharam\vishwadharam\obj\Debug\net8.0\vishwadharam.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lab_services_student\Documents\WIL WEBSITE\vishwadharam\vishwadharam\obj\Debug\net8.0\vishwadharam.RazorAssemblyInfo.cache
+C:\Users\lab_services_student\Documents\WIL WEBSITE\vishwadharam\vishwadharam\obj\Debug\net8.0\vishwadharam.RazorAssemblyInfo.cs
+C:\Users\lab_services_student\Documents\WIL WEBSITE\vishwadharam\vishwadharam\obj\Debug\net8.0\vishwadharam.sourcelink.json
+C:\Users\lab_services_student\Documents\WIL WEBSITE\vishwadharam\vishwadharam\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\lab_services_student\Documents\WIL WEBSITE\vishwadharam\vishwadharam\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\lab_services_student\Documents\WIL WEBSITE\vishwadharam\vishwadharam\obj\Debug\net8.0\staticwebassets\msbuild.vishwadharam.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\lab_services_student\Documents\WIL WEBSITE\vishwadharam\vishwadharam\obj\Debug\net8.0\staticwebassets\msbuild.build.vishwadharam.props
+C:\Users\lab_services_student\Documents\WIL WEBSITE\vishwadharam\vishwadharam\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.vishwadharam.props
+C:\Users\lab_services_student\Documents\WIL WEBSITE\vishwadharam\vishwadharam\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.vishwadharam.props
+C:\Users\lab_services_student\Documents\WIL WEBSITE\vishwadharam\vishwadharam\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\lab_services_student\Documents\WIL WEBSITE\vishwadharam\vishwadharam\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\lab_services_student\Documents\WIL WEBSITE\vishwadharam\vishwadharam\obj\Debug\net8.0\scopedcss\bundle\vishwadharam.styles.css
+C:\Users\lab_services_student\Documents\WIL WEBSITE\vishwadharam\vishwadharam\obj\Debug\net8.0\scopedcss\projectbundle\vishwadharam.bundle.scp.css
+C:\Users\lab_services_student\Documents\WIL WEBSITE\vishwadharam\vishwadharam\obj\Debug\net8.0\vishwadh.5F11D861.Up2Date
+C:\Users\lab_services_student\Documents\WIL WEBSITE\vishwadharam\vishwadharam\obj\Debug\net8.0\vishwadharam.dll
+C:\Users\lab_services_student\Documents\WIL WEBSITE\vishwadharam\vishwadharam\obj\Debug\net8.0\refint\vishwadharam.dll
+C:\Users\lab_services_student\Documents\WIL WEBSITE\vishwadharam\vishwadharam\obj\Debug\net8.0\vishwadharam.pdb
+C:\Users\lab_services_student\Documents\WIL WEBSITE\vishwadharam\vishwadharam\obj\Debug\net8.0\vishwadharam.genruntimeconfig.cache
+C:\Users\lab_services_student\Documents\WIL WEBSITE\vishwadharam\vishwadharam\obj\Debug\net8.0\ref\vishwadharam.dll
